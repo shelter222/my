@@ -1,0 +1,79 @@
+body .ONE{
+    height: opx;
+    width: 0px;
+    justify-content: right;
+    align-items: center;
+    background-color: aqua;
+
+}
+
+
+img{
+    height: 470px;
+    width: 400px;
+    justify-content: right;
+    align-items: center;
+    background-color: aqua;
+
+}
+
+
+
+
+
+
+
+.ten{
+    justify-content: space-between;
+    ;
+    background-color: aqua;
+    
+    display: flex;
+    
+
+
+}
+
+
+
+
+
+
+.nin{
+    
+    justify-content: right;
+    align-items: right;
+    background-color:gray;
+    position: right ;
+    text-align: center;
+    color: pink;
+    font-family: fantasy;
+    
+
+}
+
+
+
+
+
+
+.can{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.you{
+    color: white;
+    text-shadow: 7cqb;
+    size: 20%;
+    text-decoration: none;
+    text-align: end;
+
+}
+
+.for{
+    display: flex;
+    
+}
+
